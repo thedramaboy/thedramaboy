@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @Paul<br>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=thedramaboy&show_icons=true&theme=cobalt" width="300"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedramaboy&theme=cobalt"/>
+<h1>Hello!</h1>
+I’m Paul, a software developer<br>
