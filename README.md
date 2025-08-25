@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **thedramaboy/thedramaboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hello!</h1>
+I’m Paul, a software developer<br>
+
+<h2>Project</h2>
+<li>Designed and built <a href="https://goapricot.ca/">Go Apricot</a> (a company that provides professional software solutions for startups and growing teams.)</li>
