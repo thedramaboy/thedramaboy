@@ -24,9 +24,9 @@ Frontend
 
 Backend
 <ul>
-  <li>Developed a back-office system for wholesale drug distribution with dashboards, product and order management for <b>JR Plus</b> (Pharmaceutical e-commerce platform for pharmacy distributor.) using Next.js and Supabase</li>
+  <li>Developed a back-office system for wholesale drug distribution with dashboards, product and order management for  <a href="https://jrplus.vercel.app/">JR Plus</a> (Pharmaceutical e-commerce platform for pharmacy distributor.)
   <br>
 <li>Built an inventory dashboard with CRUD for drugs/categories, role-based access, and Excel import/export and implemented secure file management for images and PDFs with Supabase storage.
- <b>BSH</b> (Pharmaceutical database & inventory system for medical team.) using Next.js and Supabase</li>
+<a href="https://bsh-drug-info.vercel.app/">BSH</a> (Pharmaceutical database & inventory system for medical team.)
 </ul>
 
