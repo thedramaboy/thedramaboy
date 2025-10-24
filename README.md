@@ -22,7 +22,7 @@ Frontend
   <li>Designed and built <a href="https://goapricot.ca/">Go Apricot</a> (a company that provides professional software solutions for startups and growing teams.)</li>
 </ul>
 
-Backend
+Full-stack
 <ul>
   <li>Developed a back-office system for wholesale drug distribution with dashboards, product and order management for  <a href="https://jrplus.vercel.app/">JR Plus</a> (Pharmaceutical e-commerce platform for pharmacy distributor.)
   <br>
