@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 I’m Nate, a software developer<br>
 
 <h2>Project</h2>
-Frontend
 <ul>
   <li>Designed and built <a href="https://goapricot.ca/">Go Apricot</a> (a company that provides professional software solutions for startups and growing teams.)</li>
-</ul>
-
-Full-stack
-<ul>
   <li>Developed a back-office system for wholesale drug distribution with dashboards, product and order management for  <a href="https://jrplus.vercel.app/">JR Plus</a> (Pharmaceutical e-commerce platform for pharmacy distributor.)
   <br>
 <li>Built an inventory dashboard with CRUD for drugs/categories, role-based access, and Excel import/export and implemented secure file management for images and PDFs with Supabase storage.
